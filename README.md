@@ -37,7 +37,7 @@ A full-stack web application for managing nested tag tree hierarchies with React
 - Python 3.9+
 - FastAPI
 - SQLAlchemy ORM
-- SQLite (easily swappable to PostgreSQL)
+- PostgreSQL (Supabase)
 
 ## Project Structure
 
